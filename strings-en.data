@@ -390,7 +390,7 @@
 	{"code":"right","text":"Right"},
 	{"code":"middle","text":"Middle"},
 	{"code":"none","text":"Nada"},
-	{"code":"rotatemousewheel","text":"Rodar máquinas com a roda do Mouse:"},
+	{"code":"rotatemousewheel","text":"Girar máquinas com a roda do Mouse:"},
 	{"code":"edgescrolling","text":"Edge scrolling:"},
 	{"code":"edgeScrollSensitivity","text":"Edge scroll sensitivity:"},
 	{"code":"keyScrollSensitivity","text":"Key scroll sensitivity:"},
