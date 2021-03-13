@@ -208,7 +208,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">quest_log</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Registro de Missões</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Missões</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">ledger_map</Data></Cell>
@@ -416,7 +416,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">sell_howmany</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Vou pagar %2% por caso para %1%. Vejo que você tem %3%. Insira o número que deseja vender abaixo e clique em Vender.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Vou pagar %2% por caixa para %1%. Vejo que você tem %3%. Insira o número que deseja vender abaixo e clique em Vender.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">click_sell</Data></Cell>
@@ -616,85 +616,85 @@
    </Row>
    <Row ss:StyleID="s66">
     <Cell ss:StyleID="s63"><Data ss:Type="String">slots_won</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Well done! You won %1% for a %2% bet. Pull the arm for another try.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Bem feito! Você ganhou %1% por uma aposta de %2%. Puxe o braço para outra tentativa</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
    </Row>
    <Row ss:StyleID="s66">
     <Cell ss:StyleID="s63"><Data ss:Type="String">slots_lost</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Nothing. Give the slot machine another pull for %1% and see if your fortunes change.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nenhuma coisa. Dê à máquina caça-níqueis outra chance para %1% e veja se sua sorte muda.</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
    </Row>
    <Row ss:StyleID="s66">
     <Cell ss:StyleID="s63"><Data ss:Type="String">delivery_intro</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">SPECIAL ORDER RECEIVED:&lt;br&gt;%1% cases %2% for %3%.&lt;br&gt;Will pay %4%.&lt;br&gt;Required within %5% weeks or order will be cancelled.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">PEDIDO ESPECIAL RECEBIDO: &lt;br&gt;%1% cases %2% para %3%. &lt;br&gt;Pagará %4%. &lt;br&gt;Obrigatório em %5% semanas ou o pedido será cancelado</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
    </Row>
    <Row ss:StyleID="s66">
     <Cell ss:StyleID="s63"><Data ss:Type="String">delivery_complete</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Thank you, &lt;player&gt;. These %1% are perfect! I look forward to ordering from Baumeister Confections in the future!</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Obrigado, &lt;player&gt;. Esses %1% são perfeitos! Estou ansioso para fazer pedidos da Baumeister Confections no futuro!</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
    </Row>
    <Row ss:StyleID="s66">
     <Cell ss:StyleID="s63"><Data ss:Type="String">delivery_summary</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">You accepted a special order for %1% at %2% in %3%.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Você aceitou um pedido especial de %1% em %2% em %3%.</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
    </Row>
    <Row ss:StyleID="s66">
     <Cell ss:StyleID="s63"><Data ss:Type="String">delivery_title</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Special Order</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Oferta Especial</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
    </Row>
    <Row ss:StyleID="s66">
     <Cell ss:StyleID="s63"><Data ss:Type="String">delivery_expired</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">I regret to inform you that the time for the special order for %1% has expired. %2% has cancelled the order.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Lamento informar que o tempo para o pedido especial de %1% expirou. %2% cancelou o pedido.</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
    </Row>
    <Row ss:StyleID="s66">
     <Cell ss:StyleID="s63"><Data ss:Type="String">delivery_incomplete</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">I am very much looking forward to receiving my special order %1%...</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Estou muito ansioso para receber meu pedido especial %1%...</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
    </Row>
    <Row ss:StyleID="s66">
     <Cell ss:StyleID="s63"><Data ss:Type="String">main_feli_speak</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">I am sure excited about coffee, &lt;player&gt;. I hope you are too!</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Estou muito animado com o café, &lt;player&gt;. Espero que você também esteja!</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
    </Row>
    <Row ss:StyleID="s66">
     <Cell ss:StyleID="s63"><Data ss:Type="String">main_deit_speak</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Ahh, Japan is just beautiful this time of year!</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Ahh, o Japão é simplesmente lindo nesta época do ano!</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
    </Row>
    <Row ss:StyleID="s66">
     <Cell ss:StyleID="s63"><Data ss:Type="String">evil_kath_speak</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">So you're the one they've got making decisions over at Baumeister Confections, eh?</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Então é você quem está tomando as decisões na Baumeister Confections, hein?</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
    </Row>
    <Row ss:StyleID="s66">
     <Cell ss:StyleID="s63"><Data ss:Type="String">evil_wolf_speak</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">When things are going well, they go well. But when they go bad, they can go really bad.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Quando as coisas estão indo bem, elas vão bem. Mas quando eles ficam ruins, eles podem ficar muito ruins.</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
    </Row>
    <Row ss:StyleID="s66">
     <Cell ss:StyleID="s63"><Data ss:Type="String">evil_tyso_speak</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">There are forces at play, &lt;player&gt;, beyond your understanding, and beyond your ability to control.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Existem forças em jogo, &lt;player&gt;, além da sua compreensão e além da sua capacidade de controle.</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:StyleID="s66">
     <Cell ss:StyleID="s63"><Data ss:Type="String">factory_stalled</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">One of your factories has stalled! You need to have enough ingredients on hand to keep the machinery running while you travel so they can continue to produce chocolates for you to sell. Roll your mouse over the Factory Status window below to find out where to buy the ingredients you need.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Uma de suas fábricas paralisou! Você precisa ter ingredientes suficientes à mão para manter o maquinário funcionando enquanto viaja, para que eles possam continuar a produzir chocolates para você vender. Passe o mouse sobre a janela Status da fábrica abaixo para descobrir onde comprar os ingredientes de que você precisa.</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
    </Row>
@@ -704,39 +704,39 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">dookie_pertick</Data></Cell>
-    <Cell><Data ss:Type="String">Making %1% per week</Data></Cell>
+    <Cell><Data ss:Type="String">Fazendo %1% por semana</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">dookie_ticks</Data></Cell>
-    <Cell><Data ss:Type="String">Enough ingredients for %1% weeks</Data></Cell>
+    <Cell><Data ss:Type="String">Ingredientes suficientes para %1% semanas</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">dookie_low</Data></Cell>
-    <Cell><Data ss:Type="String">Running low on ingredients</Data></Cell>
+    <Cell><Data ss:Type="String">Com poucos ingredientes</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">ing_inventory</Data></Cell>
-    <Cell><Data ss:Type="String">%1% sacks in inventory</Data></Cell>
+    <Cell><Data ss:Type="String">%1% sacos em estoque</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">prod_inventory</Data></Cell>
-    <Cell><Data ss:Type="String">%1% cases in inventory</Data></Cell>
+    <Cell><Data ss:Type="String">%1% caixas em estoque</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">ing_low</Data></Cell>
-    <Cell><Data ss:Type="String">low on %1%</Data></Cell>
+    <Cell><Data ss:Type="String">baixo %1%</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">ing_out</Data></Cell>
-    <Cell><Data ss:Type="String">out of %1%</Data></Cell>
+    <Cell><Data ss:Type="String">fora de %1%</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">lastseen</Data></Cell>
-    <Cell><Data ss:Type="String">last seen in %1%</Data></Cell>
+    <Cell><Data ss:Type="String">visto pela última vez em %1%</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">product_never_seen</Data></Cell>
-    <Cell><Data ss:Type="String">You have not yet sold this product.</Data></Cell>
+    <Cell><Data ss:Type="String">Você ainda não vendeu este produto.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">price_range</Data></Cell>
@@ -744,79 +744,79 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">product_lastseen</Data></Cell>
-    <Cell><Data ss:Type="String">Last seen for %2% per case in %1%.</Data></Cell>
+    <Cell><Data ss:Type="String">Visto pela última vez para %2% por caixa em %1%.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">ingredient_never_seen</Data></Cell>
-    <Cell><Data ss:Type="String">You have not yet priced this ingredient.</Data></Cell>
+    <Cell><Data ss:Type="String">Você ainda não definiu o preço deste ingrediente.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">ingredient_lastseen</Data></Cell>
-    <Cell><Data ss:Type="String">Last seen in %1% for %2% per sack.</Data></Cell>
+    <Cell><Data ss:Type="String">Visto pela última vez em %1% para %2% por saco.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">factory_nomachinery</Data></Cell>
-    <Cell><Data ss:Type="String">This factory is not equipped to make this type of product.</Data></Cell>
+    <Cell><Data ss:Type="String">Esta fábrica não está equipada para fazer este tipo de produto.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">factory_config</Data></Cell>
-    <Cell><Data ss:Type="String">This factory is configured to make %1% cases per week.</Data></Cell>
+        <Cell><Data ss:Type="String">Esta fábrica está configurado para fazer %1% caixas por semana.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">factory_noconfig</Data></Cell>
-    <Cell><Data ss:Type="String">The %1% factory has not been configured for this product.</Data></Cell>
+    <Cell><Data ss:Type="String">A %1% fábrica não foi configurado para este produto.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">factory_noingredients</Data></Cell>
-    <Cell><Data ss:Type="String">To configure the factory for this recipe, you must have the required ingredients on hand.</Data></Cell>
+    <Cell><Data ss:Type="String">Para configurar a fábrica para esta receita, você deve ter os ingredientes necessários na mão.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">factory_other</Data></Cell>
-    <Cell><Data ss:Type="String">Your %1% factory will make %2% of these per week.</Data></Cell>
+    <Cell><Data ss:Type="String">Seu %1% fábrica fará% 2% destes por semana.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">click_phone</Data></Cell>
-    <Cell><Data ss:Type="String">Click to telegraph a change order.</Data></Cell>
+    <Cell><Data ss:Type="String">Clique para telégrafo um pedido de alteração.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">user_blankslot</Data></Cell>
-    <Cell><Data ss:Type="String">This space is now available! Visit the Secret Test Kitchen to create your own recipe!</Data></Cell>
+    <Cell><Data ss:Type="String">Este espaço já está disponível! Visite o segredo teste cozinha para criar sua própria receita!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">recipe_noslots</Data></Cell>
-    <Cell><Data ss:Type="String">You do not currently have any spaces available in the recipe book for your own recipes.&lt;br&gt;&lt;br&gt;With your continued success, the Board of Directors will provide more spaces so you can create (and sell) your own inventions.</Data></Cell>
+    <Cell><Data ss:Type="String">Você não possuímos nenhuma espaços disponíveis no livro de receitas para as suas próprias receitas. &lt;br&gt;&lt;br&gt; Com o seu sucesso continuado, o Conselho de Administração irá fornecer mais espaços para que você possa criar (e vender) suas próprias invenções.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">recipe_unknown</Data></Cell>
-    <Cell><Data ss:Type="String">You do not yet know this recipe.</Data></Cell>
+    <Cell><Data ss:Type="String">Você ainda não conhece esta receita.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">trip_time_single</Data></Cell>
-    <Cell><Data ss:Type="String">This trip will take one week</Data></Cell>
+    <Cell><Data ss:Type="String">Esta viagem vai levar uma semana</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">trip_time</Data></Cell>
-    <Cell><Data ss:Type="String">This trip will take %1% weeks</Data></Cell>
+    <Cell><Data ss:Type="String">Esta viagem levará %1% semanas</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">trip_cost</Data></Cell>
-    <Cell><Data ss:Type="String">and cost %1%.</Data></Cell>
+    <Cell><Data ss:Type="String">e custo %1%.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">trip_free</Data></Cell>
-    <Cell><Data ss:Type="String">on your private plane.</Data></Cell>
+    <Cell><Data ss:Type="String">em seu avião particular.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">trip_expensive</Data></Cell>
-    <Cell><Data ss:Type="String">You can't afford this.</Data></Cell>
+    <Cell><Data ss:Type="String">Você não pode permitir isso.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">trip_here</Data></Cell>
-    <Cell><Data ss:Type="String">You are here.</Data></Cell>
+    <Cell><Data ss:Type="String">Você está aqui.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">trip_locked</Data></Cell>
-    <Cell><Data ss:Type="String">This port is not yet available.</Data></Cell>
+    <Cell><Data ss:Type="String">Este porto ainda não está disponível.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">category_empty</Data></Cell>
@@ -1908,75 +1908,75 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">blueberry</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Blueberries</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Amoras</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">bog_cacao</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Colombian Cacao</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Cacau colombiano</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">bog_coffee</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Colombian Coffee</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Café colombiano</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">butter</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Butter</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Manteiga</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">cacao</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Cacao</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Cacau</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">caramel</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Caramel</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Caramelo</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">cardamom</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Cardamom Pods</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Vagens de cardamomo</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">cashew</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Cashews</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Castanha de caju</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">cherry</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Bing Cherries</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Cerejas de Bing</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">cinnamon</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Cinnamon</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Canela</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">clove</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Cloves</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Cravo</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">coconut</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Coconuts</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Cocos</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">coffee</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Coffee</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Café</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">cream</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Cream</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Creme</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">currant</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Currants</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Groselhas</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">date</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Dates</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Datas</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">dou_cacao</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Doualan Cacao</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Doualan Cacau</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">espresso</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Espresso Beans</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Grãos de café expresso</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">ginger</Data></Cell>
@@ -1984,39 +1984,39 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">grand_marnier</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Orange Liqueur</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Licor de laranja</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">hav_coffee</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Cuban Coffee</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Café cubano</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">hazelnut</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Hazelnuts</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Avelãs</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">honey</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Honey</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Mel</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">kahlua</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Coffee Liqueur</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Licor de café</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">kon_coffee</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Kona Coffee</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Café Kona</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">lemon</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Lemons</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Limões</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">lim_cacao</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Peruvian Cacao</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Cacau peruano</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">lime</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Wild Limes</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Limas Selvagens</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">macadamia</Data></Cell>
