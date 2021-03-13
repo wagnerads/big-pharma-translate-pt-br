@@ -140,7 +140,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">welcome</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Welcome Back, %1%!</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Bem-vindo de volta, %1%!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">copyright</Data></Cell>
@@ -148,7 +148,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">badname</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">The name you have entered is not valid. Please enter another name.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">O nome que você digitou não é válido. Por favor insira outro nome.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s64"/>
@@ -160,71 +160,71 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">yes</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Sim</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">no</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">No</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Não</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">close</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Close</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Fechar</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">cancel</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Cancel</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Cancelar</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">done</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Done</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pronto</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">start</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Start</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Iniciar</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">back</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Back</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Voltar</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">buy</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Buy</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Comprar</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">sell</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Sell</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Vender</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">sell_all</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Sell All</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Vender tudo</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">haggle</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Haggle</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pechinchar</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">try_again</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Try Again</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Tente novamente</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">quest_log</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Quest Log</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Registro de Missões</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">ledger_map</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Map</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Mapa Contábil</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">ledger_port</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Port</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Livro Razão</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">recipes</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Recipes</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Receitas</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">inventory</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Inventory</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Inventário</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">menu</Data></Cell>
@@ -232,47 +232,47 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">ledger_medals</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Awards</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Recompensas</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">create</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Create</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Criar</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">randomize</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Randomize</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Aleatório</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">story_mode</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Start Game</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Iniciar Jogo</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">change_player</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Change Player</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Trocar Jogador</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">options</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Options</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Opções</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">credits</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Credits</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Créditos</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">main_menu</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Main Menu</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Menu Principal</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">resume_game</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Resume Game</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Continuar Jogo</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">replay_intro</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Replay Intro</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Repetir Introdução</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">help</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Help</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Ajuda</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">high_scores</Data></Cell>
@@ -280,55 +280,55 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">quit</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Save &amp; Quit</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Salvar &amp; Sair</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">use_recipe</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Use This Recipe</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Usar Essa Receita</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">previous</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Previous</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Anterior</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">next</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Next</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Próximo</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">pause</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Pause</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pausar</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">make_chocolate</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Make Chocolate!</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Fazer Chocolate!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">make_coffee</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Make Coffee!</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Fazer Café!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">configure</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Change Recipe</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Alterar Receita</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">finished_quests</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Include Completed Quests</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Incluir Missões Completadas</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">newplayer</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">New Player</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Novo Jogador</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">renameplayer</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Rename Player</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Renomear Jogador</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">deleteplayer</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Delete Player</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Deletar Jogador</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">enternameprompt</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Please enter your name:</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Por favor, digite o seu nome:</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">default_name</Data></Cell>
@@ -336,35 +336,35 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">nameinuse</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">That name is already in use. Please choose a different name.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Esse nome já está em uso. Por favor, escolha um nome diferente.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">moregames</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">More Games</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Mais Jogos</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">title_quests</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Quests</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Missões</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">title_recipes</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Recipes</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Receitas</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">title_inventory</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Inventory</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Inventário</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">title_medals</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Awards</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Recompensas</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">title_history</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">History</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">História</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">title_kitchen</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Test Kitchen</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Cozinha de Teste</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">title_marketing</Data></Cell>
@@ -372,15 +372,15 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">telegram_from</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">FROM: %1%</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">DE: %1%</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">telegram_to</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">TO: %1%</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">PARA: %1%</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">telegram_where</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">LOCATION: %1%</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">LOCAL: %1%</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s64"/>
@@ -388,59 +388,59 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">confirm_quit</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Are you sure you want to quit %gamename%?</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Você tem certeza que quer sair %gamename%?</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">confirm_delete</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Are you sure you want to delete the player %1%?</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Tem certeza que deseja deletar o jogador %1%?</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">shop_welcome</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Here's what I am willing to pay for your items:</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Aqui está o que estou disposto a pagar pelos seus itens:</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">shop_welcome_owned</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Welcome back to your shop! Here's the premium pricing I can offer:</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Bem-vindo de volta à sua loja! Aqui está o preço premium que posso oferecer:</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">shop_thanks</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Thanks for doing business with us!</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Obrigado por fazer negócios conosco!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">market_welcome</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Click on an ingredient to buy some:</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Clique em um ingrediente para comprar alguns:</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">market_thanks</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Thank you for your purchase!</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Obrigado por sua compra!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">sell_howmany</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">I'll pay %2% a case for %1%. I see you have %3%. Enter the number you would like to sell below and click Sell.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Vou pagar %2% por caso para %1%. Vejo que você tem %3%. Insira o número que deseja vender abaixo e clique em Vender.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">click_sell</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Click to sell some</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Clique para vender alguns</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">buy_howmany</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">I'm selling sacks of %1% for %2% each. Enter the number of sacks you would like below and click Buy.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Estou vendendo sacos de %1% por %2% cada. Insira o número de sacos que deseja abaixo e clique em Comprar.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">click_buy</Data></Cell>
-    <Cell><Data ss:Type="String">Click to purchase some</Data></Cell>
+    <Cell><Data ss:Type="String">Clique para comprar alguns</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">shop_comeback</Data></Cell>
-    <Cell><Data ss:Type="String">I'm always looking for products to stock my shelves. Come back when you have something to sell!</Data></Cell>
+    <Cell><Data ss:Type="String">Estou sempre em busca de produtos para estocar em minhas prateleiras. Volte quando tiver algo para vender!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">kitchen_new_ingredients</Data></Cell>
-    <Cell><Data ss:Type="String">It looks like you have some ingredients we haven't seen before. We'll grab one sack of each so it will be available for use in our test kitchens.</Data></Cell>
+    <Cell><Data ss:Type="String">Parece que você tem alguns ingredientes que não vimos antes. Pegaremos um saco de cada para que fique disponível para uso em nossas cozinhas de teste.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">user_noslots</Data></Cell>
-    <Cell><Data ss:Type="String">You do not currently have any spaces available in the recipe book for your own recipes.&lt;br&gt;&lt;br&gt;With your continued success, the Board of Directors will provide more spaces so you can create (and sell) your own inventions. Would you like to come inside anyway?</Data></Cell>
+    <Cell><Data ss:Type="String">No momento, você não tem espaços disponíveis no livro de receitas para suas próprias receitas.&lt;br&gt;&lt;br&gt;Com seu sucesso contínuo, o Conselho de Administração fornecerá mais espaços para que você possa criar (e vender) suas próprias invenções. Você gostaria de entrar de qualquer maneira?</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">user_allslotsused</Data></Cell>
