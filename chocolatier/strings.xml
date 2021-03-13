@@ -444,55 +444,55 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">user_allslotsused</Data></Cell>
-    <Cell><Data ss:Type="String">Way to go - you have completed the entire recipe book!&lt;br&gt;&lt;br&gt;While you won't be able to add any more recipes, you are certainly welcome to poke around and experiment as much as you wish.&lt;br&gt;&lt;br&gt;Would you like to step inside now?</Data></Cell>
+    <Cell><Data ss:Type="String">Muito bem - você completou todo o livro de receitas!&lt;br&gt;&lt;br&gt;Embora você não possa adicionar mais receitas, certamente é bem-vindo para pesquisar e experimentar o quanto desejar.&lt;br&gt;&lt;br&gt;Você gostaria de entrar agora?</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">tut16_configure_hint</Data></Cell>
-    <Cell><Data ss:Type="String">Don't forget to click %configure% and prepare the factory to make %b02%.</Data></Cell>
+    <Cell><Data ss:Type="String">Não se esqueça de clicar em %configure% e preparar a fábrica para fazer %b02%.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">game_paused</Data></Cell>
-    <Cell><Data ss:Type="String">Machinery Paused. Press OK to continue production.</Data></Cell>
+    <Cell><Data ss:Type="String">Maquinas paradas. Pressione OK para continuar a produção.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s63"><Data ss:Type="String">chocolate_start</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">You have 60 seconds to set our production rate.&lt;br&gt;&lt;br&gt;Aim and click to fire ingredients - match the full tray you see on the right.&lt;br&gt;&lt;br&gt;I'll speed the machines up as you succeed, and slow them down if you miss.&lt;br&gt;&lt;br&gt;Good luck!</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Você tem 60 segundos para definir nossa taxa de produção.&lt;br&gt;&lt;br&gt;Mire e clique para disparar os ingredientes - combine a bandeja cheia que você vê à direita.&lt;br&gt;&lt;br&gt;Vou acelerar as máquinas conforme você for bem-sucedido e reduzi-las se você errar.&lt;br&gt;&lt;br&gt;Boa sorte!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s63"><Data ss:Type="String">choco_first_missed</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Uh-oh! Wasted ingredient!&lt;br&gt;&lt;br&gt;Use the full tray on the right as your guide.&lt;br&gt;&lt;br&gt;I'll keep track of each ingredient you waste up on the right.&lt;br&gt;Waste 8, and I'll be forced to halt production...</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Ops! Ingrediente desperdiçado!&lt;br&gt;&lt;br&gt;Use a bandeja cheia à direita como seu guia.&lt;br&gt;&lt;br&gt;Vou manter o controle de cada ingrediente que você desperdiça à direitat.&lt;br&gt;Se desperdiçar 8 eu serei forçado a interromper a produção...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s63"><Data ss:Type="String">coffee_start</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Aim and fire ingredients to form rows of at least 3 ingredients on the moving conveyor belt.&lt;br&gt;&lt;br&gt;Matched ingredients will fill the coffee-making machinery on the right.&lt;br&gt;&lt;br&gt;Matches of more than 3 ingredients in a row earn bonus products.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Mirar e atirar ingredientes para formar fileiras de pelo menos 3 ingredientes na esteira rolante.&lt;br&gt;&lt;br&gt;Ingredientes combinados irão encher a máquina de fazer café à direita.&lt;br&gt;&lt;br&gt;Combinações de mais de 3 ingredientes consecutivos ganham produtos bônus.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">now_making</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Now Making:</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Agora fazendo:</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">cases</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Cases:</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Caixas:</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">cases_per</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">per week</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">por semana</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s63"><Data ss:Type="String">coffee_first_missed</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Uh-oh! Wasted ingredient!&lt;br&gt;&lt;br&gt;Fire ingredients at blank squares on the grid to try to form lines of at least 3.&lt;br&gt;&lt;br&gt;I'll keep track of each ingredient you waste. Waste 8, and I'll be forced to halt production...</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ops! Ingrediente desperdiçado!&lt;br&gt;&lt;br&gt;Atire ingredientes no quadrados em branco na grade para tentar formar linhas de pelo menos 3.&lt;br&gt;&lt;br&gt;Vou manter o controle de cada ingrediente que você desperdiça. Se desperdiçar 8 eu serei forçado a interromper a produção...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s63"><Data ss:Type="String">factory_gameover</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Production rate: %1% cases per week.&lt;br&gt;&lt;br&gt;As long as you have the needed ingredients in stock, we'll keep on making %1% cases each and every week. </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Taxa de produção: %1% caixas por semana.&lt;br&gt;&lt;br&gt;Contanto que você tenha os ingredientes necessários em estoque, continuaremos fazendo %1% caixas a cada semana.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">factory_insufficient</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">You are missing the ingredients required to make this recipe.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Estão faltando os ingredientes necessários para fazer esta receita.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">gamble_options</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Feeling lucky, &lt;player&gt;? Would you like to try a traditional slot machine? Or play hide and seek for money in spare boxes?</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Sentindo-se sortudo, &lt;player&gt;? Você gostaria de experimentar uma máquina caça-níqueis tradicional? Ou brincar de esconde-esconde em caixas sobressalentes?</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">ante</Data></Cell>
@@ -500,117 +500,117 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">your_bet</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Your Bet</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Sua aposta</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">bet_more</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Bet More</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Aposte mais</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">bet_less</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Bet Less</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Aposte menos</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">you_won</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">You won:</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Você ganhou:</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">you_lost</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">You lost:</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Você perdeu:</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">player_wins</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">You got me this time! You win %2%.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Você me pegou desta vez! Você ganha %2%.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">char_wins</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Looks like I win %2%. Better luck next time!</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Parece que eu ganhei %2%. Mais sorte da próxima vez!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">tie</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">It's a tie! I'll keep the %1%, and you keep the rest.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">É um empate! Eu vou manter o %1%, e você fica com o resto.</Data></Cell>
    </Row>
    <Row ss:StyleID="s66">
     <Cell ss:StyleID="s67"><Data ss:Type="String">gamble_crate_yn</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">Feeling lucky, &lt;player&gt;? Would you care to try your hand at a simple game of chance?</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Sentindo-se com sorte, &lt;player&gt;? Você gostaria de tentar sua sorte em um simples jogo de azar?</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:StyleID="s66">
     <Cell ss:StyleID="s63"><Data ss:Type="String">gamble_crate_instructions</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Raise or lower your bet and press %start%.&lt;br&gt;The more you wager, the more I'll place in these boxes.&lt;br&gt;Open boxes, and stop at any time to keep the money you've uncovered. But uncover a whammy, and I'll keep all the dough…</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Aumente ou diminua sua aposta e pressione %start%.&lt;br&gt;Quanto mais você aposta, mais colocarei nessas caixas.&lt;br&gt;Abra as caixas e pare a qualquer momento para guardar o dinheiro que você descobriu. Mas descubra um golpe e eu vou ficar com toda a grana ...</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
    </Row>
    <Row ss:StyleID="s66">
     <Cell ss:StyleID="s63"><Data ss:Type="String">gamble_crate_first</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">OK, I've put more than %1% in these boxes. Open as many as you wish, but remember: uncover a whammy and the game ends.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">OK, coloquei mais de %1% nessas caixas. Abra quantos quiser, mas lembre-se: descubra um golpe e o jogo termina.</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:StyleID="s66">
     <Cell ss:StyleID="s63"><Data ss:Type="String">crates_ahead</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">There are still more boxes to open! Go ahead and open another one, or click %done% to bank your winnings… </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Ainda há mais caixas para abrir! Vá em frente e abra outro ou clique em %done% para depositar seus ganhos ...</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
    </Row>
    <Row ss:StyleID="s66">
     <Cell ss:StyleID="s63"><Data ss:Type="String">crates_behind</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Stop now or open more boxes … the choice is yours!</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pare agora ou abra mais caixas ... a escolha é sua!</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
    </Row>
    <Row ss:StyleID="s66">
     <Cell ss:StyleID="s63"><Data ss:Type="String">crates_even</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">You can avoid a loss by clicking %done%, or keep trying for more.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Você pode evitar uma perda clicando em %done% ou continuar tentando por mais.</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
    </Row>
    <Row ss:StyleID="s66">
     <Cell ss:StyleID="s63"><Data ss:Type="String">crates_lost</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Well, that's it. Once you uncover a whammy the game's over. I'll keep your bet and wish you better luck next time…</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Bem, é isso. Depois de descobrir um golpe, o jogo acaba. Vou manter a sua aposta e desejo-lhe melhor sorte da próxima vez ...</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
    </Row>
    <Row ss:StyleID="s66">
     <Cell ss:StyleID="s63"><Data ss:Type="String">crates_welldone</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Nicely done. It pays not to be too greedy!</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Bem feito. Vale a pena não ser muito ganancioso!</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
    </Row>
    <Row ss:StyleID="s66">
     <Cell ss:StyleID="s63"><Data ss:Type="String">winnings</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Click %done% to win:</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Clique em %done% para ganhar:</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
    </Row>
    <Row ss:StyleID="s66">
     <Cell ss:StyleID="s63"><Data ss:Type="String">losings</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Click %done% to keep:</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Clique em %done% para manter:</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
    </Row>
    <Row ss:StyleID="s66">
     <Cell ss:StyleID="s63"><Data ss:Type="String">winnings_alt</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">or continue opening crates to try for more!</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ou continue abrindo caixas para tentar mais!</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
    </Row>
    <Row ss:StyleID="s66">
     <Cell ss:StyleID="s63"><Data ss:Type="String">slots_instructions</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Give the slot machine a pull! Each pull will cost %1% ... but you may hit the jackpot!</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Dê um puxão na máquina caça-níqueis! Cada puxada custará %1% ... mas você pode ganhar o jackpot!</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
    </Row>
    <Row ss:StyleID="s66">
     <Cell ss:StyleID="s63"><Data ss:Type="String">slots_won_even</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">You broke even that time … another spin will cost %2%.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Você empatou naquele tempo ... outro giro custará %2%.</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
    </Row>
    <Row ss:StyleID="s66">
     <Cell ss:StyleID="s63"><Data ss:Type="String">slots_won_jackpot</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Jackpot! Your %2% bet just paid out %1%! Try again?</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Jackpot! A sua aposta de %2% acabou de ser paga %1%! Tente novamente?</Data></Cell>
     <Cell ss:StyleID="s68"/>
     <Cell ss:StyleID="s68"/>
    </Row>
@@ -1832,11 +1832,11 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">msg_depart</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Departing from %1%.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Partindo de %1%.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">msg_arrive</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Arriving at %1%.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Chegando em %1%.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">msg_quest_accept</Data></Cell>
@@ -1860,31 +1860,31 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">dairy</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Dairy</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Laticínios</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">fruit</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Fruits</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Frutas</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">nut</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Nuts</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nozes</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">flavor</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Flavors</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Sabores</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s64"/>
-    <Cell ss:StyleID="s64"><Data ss:Type="String">INGREDIENTS</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">INGREDIENTES</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">allspice</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Allspice</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pimenta da Jamaica</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">almond</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Almonds</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Amêndoas</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">amaretto</Data></Cell>
@@ -1892,19 +1892,19 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">anise</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Anise</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Anis</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">bal_cacao</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Balinese Cacao</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Cacau Balinês</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">bal_coffee</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Balinese Coffee</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Café Balinês</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">bel_cacao</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Honduran Cacao</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Cacau hondurenho</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">blueberry</Data></Cell>
